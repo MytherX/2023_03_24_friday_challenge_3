@@ -1,0 +1,23 @@
+.btn{
+    display: inline-block;
+    text-decoration: none;
+    padding:13px 29.5px 10px 29.5px;
+    margin:20px 0;
+    font-size:20px;
+    border-radius:5px;
+    text-transform: capitalize;
+}
+
+.btn.whitebg:hover{
+    background-color: black;
+    color:white;
+}
+
+.btn.blackbg:hover{
+    background-color: #74C69D;
+}
+@media (min-width: 1000px){
+    .hero .btn{
+        padding:13px 47.5px 10px 48.5px;
+    }
+}

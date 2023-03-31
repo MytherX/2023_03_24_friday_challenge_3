@@ -1,0 +1,26 @@
+.footer-wrapper{
+    width:100%;
+}
+
+.footer{
+    padding:40px 0;
+
+}
+
+.footer .socials {
+    display: flex;
+    gap:20px;
+    justify-content: space-between;
+    width:242px;
+}
+
+.copyright{
+    font-size:20px;
+    text-align: center;
+}
+
+@media (min-width:1200px){
+    .footer.section{
+        flex-direction: row;;
+    }
+}
