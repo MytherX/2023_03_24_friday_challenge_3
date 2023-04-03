@@ -1,6 +1,6 @@
-# Friday Challenge 3 - I PART
+# Friday Challenge 3
 
-Website design project to learn positioning, html, css, responsive design from mobile to desktop.
+Website design project to learn positioning, html, css, responsive design from mobile to desktop (Targets 375px and 1440px).
 <br>
 
 ## 🌟 About
