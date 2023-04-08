@@ -1,4 +1,4 @@
-# Friday Challenge 3 [Friday 24th and Friday 31st work]
+# Friday Challenge 3 - 2023.04.24 - 2023.04.31
 
 Website design project to learn positioning, html, css, responsive design from mobile to desktop (Targets 375px and 1440px).
 <br>
